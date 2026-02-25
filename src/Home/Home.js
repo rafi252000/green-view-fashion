@@ -16,7 +16,7 @@ const Home = () => {
   return (
     <div className="min-h-screen bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 flex flex-col items-center justify-center p-6">
       <h1 className="text-5xl font-extrabold text-white mb-12 text-center">
-        Welcome to DevTriad
+        Welcome to Green View fashion
       </h1>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
